@@ -35,7 +35,7 @@ O layout utiliza uma paleta de cores baseada em tons de verde (`#2d6a4f` e `#52b
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nutrivida.git](https://github.com/seu-usuario/nutrivida.git)
+    git clone [https://github.com/MeirejaneChaves605/Alimentos.git](https://github.com/MeirejaneChaves605/Alimentos.git)
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
@@ -49,4 +49,4 @@ O layout utiliza uma paleta de cores baseada em tons de verde (`#2d6a4f` e `#52b
 Este projeto é para fins de estudo e portfólio. Sinta-se à vontade para usá-lo como base para suas criações.
 
 ---
-Desenvolvido por [Seu Nome] - 2026 🌿
+Desenvolvido por [Meirejane Chaves] - 2026 🌿
