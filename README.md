@@ -2,7 +2,7 @@
 
 # 🥗 NutriVida | Guia Alimentar Completo
 
-O **NutriVida** é uma landing page moderna e responsiva dedicada à orientação nutricional para diferentes fases da vida. O projeto apresenta dicas específicas para crianças, adultos e idosos, com um design focado em legibilidade e experiência do usuário (UX).
+O **NutriVida com opções de alimentos** é uma landing page moderna e responsiva dedicada à orientação nutricional para diferentes fases da vida. O projeto apresenta dicas específicas para crianças, adultos e idosos, com um design focado em legibilidade e experiência do usuário (UX).
 
 
 
