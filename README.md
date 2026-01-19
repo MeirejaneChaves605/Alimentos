@@ -39,7 +39,7 @@ O layout utiliza uma paleta de cores baseada em tons de verde (`#2d6a4f` e `#52b
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd nutrivida
+    cd Alimentação
     ```
 3.  **Abra o arquivo principal:**
     Basta abrir o arquivo `index.html` em qualquer navegador moderno.
