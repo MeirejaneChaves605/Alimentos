@@ -48,5 +48,12 @@ O layout utiliza uma paleta de cores baseada em tons de verde (`#2d6a4f` e `#52b
 
 Este projeto é para fins de estudo e portfólio. Sinta-se à vontade para usá-lo como base para suas criações.
 
+# 🍎 Ilustrações do site
+
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/43853cb2-c72b-43b7-8990-29768e7d0db4" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f3900ebb-75db-427c-a834-d3e735a2aafe" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/aa1d2136-c5fe-487e-8a95-72590db344eb" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/2f9e352f-5192-47c5-98a7-a295136cdd24" />
 ---
 Desenvolvido por [Meirejane Chaves] - 2026 🌿
